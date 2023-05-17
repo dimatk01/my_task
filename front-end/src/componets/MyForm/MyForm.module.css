@@ -1,0 +1,22 @@
+.root {
+    width: 540px;
+   
+    border-radius: 30px;
+    background-color: #fff;
+    padding: 30px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.input_block {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    
+}
+h1{
+    color: #985ACE;
+}
